@@ -6,8 +6,6 @@ C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\NewsProject.Assembl
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\NewsProject.csproj.CoreCompileInputs.cache
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\NewsProject.MvcApplicationPartsAssemblyInfo.cs
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\NewsProject.MvcApplicationPartsAssemblyInfo.cache
-C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\NewsProject.RazorAssemblyInfo.cache
-C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\NewsProject.RazorAssemblyInfo.cs
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\NewsProject.sourcelink.json
 C:\WaveAccess\My folder\Project\NewsProject\bin\Debug\net8.0\appsettings.Development.json
 C:\WaveAccess\My folder\Project\NewsProject\bin\Debug\net8.0\appsettings.json
@@ -111,9 +109,7 @@ C:\WaveAccess\My folder\Project\NewsProject\bin\Debug\net8.0\zh-Hant\Microsoft.C
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\scopedcss\bundle\NewsProject.styles.css
-C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\scopedcss\projectbundle\NewsProject.bundle.scp.css
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\staticwebassets.build.json
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\WaveAccess\My folder\Project\NewsProject\obj\Debug\net8.0\staticwebassets.development.json

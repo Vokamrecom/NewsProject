@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\migrations\\20251103093822_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:migrations\\20251103093822_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,12 +31,24 @@
       "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\interfaces\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:interfaces\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|c:\\waveaccess\\my folder\\project\\newsproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F6C61A-B96A-494C-B92C-3679C831091D}|NewsProject.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,32 +103,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20251103093822_InitialCreate.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Migrations\\20251103093822_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251103093822_InitialCreate.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Migrations\\20251103093822_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251103093822_InitialCreate.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:12:44.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Interfaces\\INewsService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\INewsService.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Interfaces\\INewsService.cs",
+              "RelativeToolTip": "Interfaces\\INewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:09:31.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:08:53.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T11:38:28.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAvwHIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAADUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T11:37:52.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -133,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -146,80 +193,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-31T15:37:25.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "NewsRepository.cs",
               "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Repositories\\NewsRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\NewsRepository.cs",
               "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Repositories\\NewsRepository.cs",
               "RelativeToolTip": "Repositories\\NewsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T15:21:21.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "NewsService.cs",
               "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Services\\NewsService.cs",
               "RelativeDocumentMoniker": "Services\\NewsService.cs",
               "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Services\\NewsService.cs",
               "RelativeToolTip": "Services\\NewsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T15:20:58.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
               "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Services\\AuthService.cs",
               "RelativeToolTip": "Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowBoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T15:20:43.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "News.cs",
               "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Models\\News.cs",
               "RelativeDocumentMoniker": "Models\\News.cs",
               "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Models\\News.cs",
               "RelativeToolTip": "Models\\News.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T15:20:37.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\WaveAccess\\My folder\\Project\\NewsProject\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T13:32:21.871Z",
               "EditorCaption": ""
             }
           ]
